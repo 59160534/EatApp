@@ -1,0 +1,7 @@
+{
+  "name": "EatApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
